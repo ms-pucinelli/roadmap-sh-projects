@@ -1,5 +1,6 @@
 <div align="center">
 
+---
 # 🚀 roadmap.sh Frontend Projects
 
 A collection of frontend projects created while following the  
@@ -24,7 +25,7 @@ Click a project thumbnail to open its live demo.
 
 ### 01 — Single-Page CV
 
-<a href="https://roadmap.sh/projects/single-page-cv" target="_blank">
+<a href="https://ms-pucinelli.github.io/roadmap-sh-projects/single-page-cv.html" target="_blank">
   <img
     src="./assets/thumbnails/single-page-cv.png"
     alt="Single-Page CV"
@@ -33,7 +34,7 @@ Click a project thumbnail to open its live demo.
 </a>
 
 **Project:** [View challenge on roadmap.sh](https://roadmap.sh/projects/single-page-cv)  
-**Source code:** [Open project folder](https://github.com/ms-pucinelli/roadmap-sh-projects/blob/main/single-page-cv.html)  
+**Source code:** [Open project folder](https://github.com/ms-pucinelli/roadmap-sh-projects)  
 **Technologies:** `HTML`.  
 
 ---
