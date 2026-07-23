@@ -39,7 +39,7 @@ Click a project thumbnail to open its live demo!
 
 <a href="https://ms-pucinelli.github.io/roadmap-sh-projects/single-page-cv.html" target="_blank">
   <img
-    src="./assets/thumbnails/single-page-cv.png"
+    src="./single-page-cv/assets/thumbnails/single-page-cv.png"
     alt="Single-Page CV"
     width="300"
   />
